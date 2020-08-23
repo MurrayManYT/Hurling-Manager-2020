@@ -1,5 +1,5 @@
 # Hurling-Manager-2020
-Right then, hello all. This is the READ ME for Hurling Manager 2020 and is pretty important so please pay attention.
+Right then, hello all. This is the READ ME for Gaelic Games Manager: Football 2020 and is pretty important so please pay attention.
 
 If a prompt gives you an option to type in certain words. Please make sure you spell it correctly as to not mess with the decision making.
 Your device MUST have Python installed to use the game as it is a Python Script.
